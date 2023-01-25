@@ -1,0 +1,23 @@
+h1.Desayunos{
+    font-style:italic ;
+    font-weight: bold;
+    
+}
+
+h3.Desayunos{
+    
+}
+
+h3.Desayunos{
+    
+}
+
+table.tabla2{
+    border: red 1px solid;
+}
+td,th,tr{
+    border: blue 1px solid;
+}
+table.horario{
+    border: red 1px solid;
+}
