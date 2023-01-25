@@ -1,23 +1,39 @@
+body{
+    background-image: url(img/fondo.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+}
 h1.Desayunos{
     font-style:italic ;
     font-weight: bold;
+    text-align: center;
     
 }
+span.Titulo{
+    background-color: rgba(165, 42, 42, 0.521);
+}
+div.Pri{
+    display: inline-flex;
+    background-color: rgba(165, 42, 42, 0.473);
+    border-style: dashed;
+    border: brown 5px dashed;
 
-h3.Desayunos{
-    
+}
+hr{
+    background-color: brown 1px;
+    border: brown 1px dashed;
 }
 
-h3.Desayunos{
-    
+div.Sec{
+    display: contents;
+}
+h3{
+  font-style: italic;  
+  font-weight: bold;
 }
 
-table.tabla2{
-    border: red 1px solid;
-}
-td,th,tr{
-    border: blue 1px solid;
-}
-table.horario{
-    border: red 1px solid;
+h2{
+  font-style: italic; 
+  font-weight: bold;
 }
